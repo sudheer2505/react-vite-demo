@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "productName": "clothes",
+      "productValue": "10000",
+      "productDesc": "dress",
+      "id": 1
+    },
+    {
+      "productName": "clothes1",
+      "productValue": "20000",
+      "productDesc": "dress1",
+      "id": 2
+    },
+    {
+      "productName": "1",
+      "productValue": "1",
+      "productDesc": "1",
+      "id": 3
+    },
+    {
+      "productName": "erere",
+      "productValue": "rtrtrt",
+      "productDesc": "ytyty",
+      "id": 4
+    },
+    {
+      "productName": "ytyut",
+      "productValue": "ytyt",
+      "productDesc": "uytyt",
+      "id": 5
+    }
+  ]
+}
